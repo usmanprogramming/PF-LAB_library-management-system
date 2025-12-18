@@ -1,9 +1,6 @@
 #include <stdio.h>
 #include <string.h>
 
-#define MAX_BOOKS 100
-#define MAX_CART 50
-
 // Book structure
 struct Book {
     int id;
